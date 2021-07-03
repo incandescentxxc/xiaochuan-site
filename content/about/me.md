@@ -13,3 +13,5 @@ I love taking photographs during spare time.
 {{<figure src="/images/NightView.jpeg" width="574" height="326" >}}
 
 testing
+
+testing again using scripts
