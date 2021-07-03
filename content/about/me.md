@@ -1,7 +1,7 @@
 ---
 title: "Me"
 date: 2021-07-03T19:40:10+08:00
-draft: true
+draft: false
 ---
 
 Hi This is Xiaochuan Xu. I was born and raised in Henan, China. I spent 4 fantastic years in Hong Kong, studying at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/).
