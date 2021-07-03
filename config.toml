@@ -1,0 +1,12 @@
+baseURL = "https://incandescentxxc.github.io/"
+languageCode = "en-us"
+title = "Xiaochuan Xu"
+theme = "noteworthy"
+[params]
+# Main
+email = '#'
+instagram = "https://www.instagram.com/incandescentxxc/"
+linkedin = "https://www.linkedin.com/in/xiaochuan-xu-08042716a/"
+
+# behance = "#"
+github = "https://github.com/incandescentxxc"
